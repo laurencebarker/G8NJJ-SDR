@@ -1,0 +1,1 @@
+This is a sketch for an Arduino Micro. It uses a rotary encoder and 4x20 line LCD display to provide a debug and simple user display capability. See the documentation folder for details of the interfaces to the Arduino.
