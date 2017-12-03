@@ -1,0 +1,111 @@
+Report Written:,"Friday, November 24, 2017",,,,,,,,
+Project Path:,C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\lowpass filters\lowpass filter board.prj,,,,,,,,
+Design Path:,C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\lowpass filters\lowpass filter board.pcb,,,,,,,,
+Design Title:,,,,,,,,,
+Created:,01/10/2017 17:48,,,,,,,,
+Last Saved:,19/11/2017 22:10,,,,,,,,
+Editing Time:,774 min,,,,,,,,
+Units:,thou (precision 0),,,,,,,,
+,,,,,,,,,
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
+--------------------------------------------------------------------------,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Other Part Number,Description
+D1,1,1N4148WS,,SODFL2512X100N,Fairchild Semiconductor,1N4148WS,7613476P,,"Diode Switching 75V 0.15A SOD323F Fairchild 1N4148WS Switching Diode, 300mA 75V, 2-Pin SOD-323"
+D2,1,1N4148WS,,SODFL2512X100N,Fairchild Semiconductor,1N4148WS,7613476P,,"Diode Switching 75V 0.15A SOD323F Fairchild 1N4148WS Switching Diode, 300mA 75V, 2-Pin SOD-323"
+D3,1,1N4148WS,,SODFL2512X100N,Fairchild Semiconductor,1N4148WS,7613476P,,"Diode Switching 75V 0.15A SOD323F Fairchild 1N4148WS Switching Diode, 300mA 75V, 2-Pin SOD-323"
+D4,1,1N4148WS,,SODFL2512X100N,Fairchild Semiconductor,1N4148WS,7613476P,,"Diode Switching 75V 0.15A SOD323F Fairchild 1N4148WS Switching Diode, 300mA 75V, 2-Pin SOD-323"
+D5,1,1N4148WS,,SODFL2512X100N,Fairchild Semiconductor,1N4148WS,7613476P,,"Diode Switching 75V 0.15A SOD323F Fairchild 1N4148WS Switching Diode, 300mA 75V, 2-Pin SOD-323"
+D6,1,1N4148WS,,SODFL2512X100N,Fairchild Semiconductor,1N4148WS,7613476P,,"Diode Switching 75V 0.15A SOD323F Fairchild 1N4148WS Switching Diode, 300mA 75V, 2-Pin SOD-323"
+D7,1,1N4148WS,,SODFL2512X100N,Fairchild Semiconductor,1N4148WS,7613476P,,"Diode Switching 75V 0.15A SOD323F Fairchild 1N4148WS Switching Diode, 300mA 75V, 2-Pin SOD-323"
+SK3,1,2516-6002,,3MMH-16,,,,,Hdr Male Mount
+C25,1,Capacitor,62pF,MICA1,,,,,Capacitor
+C28,1,Capacitor,62pF,MICA1,,,,,Capacitor
+C29,1,Capacitor,100nF,805,,,,,Capacitor
+C30,1,Capacitor,100nF,805,,,,,Capacitor
+C31,1,Capacitor,100nF,805,,,,,Capacitor
+C32,1,Capacitor,100nF,805,,,,,Capacitor
+C33,1,Capacitor,100nF,805,,,,,Capacitor
+C34,1,Capacitor,100nF,805,,,,,Capacitor
+C35,1,Capacitor,100nF,805,,,,,Capacitor
+C21,1,Capacitor,100pF,MICA1,,,,,Capacitor
+C24,1,Capacitor,100pF,MICA1,,,,,Capacitor
+C26,1,Capacitor,110pF,MICA1,,,,,Capacitor
+C27,1,Capacitor,110pF,MICA1,,,,,Capacitor
+C17,1,Capacitor,150pF,MICA1,,,,,Capacitor
+C20,1,Capacitor,150pF,MICA1,,,,,Capacitor
+C22,1,Capacitor,180pF,MICA1,,,,,Capacitor
+C23,1,Capacitor,180pF,MICA1,,,,,Capacitor
+C13,1,Capacitor,220pF,MICA1,,,,,Capacitor
+C16,1,Capacitor,220pF,MICA1,,,,,Capacitor
+C18,1,Capacitor,270pF,MICA1,,,,,Capacitor
+C19,1,Capacitor,270pF,MICA1,,,,,Capacitor
+C9,1,Capacitor,430pF,MICA1,,,,,Capacitor
+C12,1,Capacitor,430pF,MICA1,,,,,Capacitor
+C14,1,Capacitor,430pF,MICA1,,,,,Capacitor
+C15,1,Capacitor,430pF,MICA1,,,,,Capacitor
+C5,1,Capacitor,820pF,MICA2,,,,,Capacitor
+C8,1,Capacitor,820pF,MICA2,,,,,Capacitor
+C10,1,Capacitor,820pF,MICA2,,,,,Capacitor
+C11,1,Capacitor,820pF,MICA2,,,,,Capacitor
+C1,1,Capacitor,1500pF,MICA2,,,,,Capacitor
+C4,1,Capacitor,1500pF,MICA2,,,,,Capacitor
+C6,1,Capacitor,1500pF,MICA2,,,,,Capacitor
+C7,1,Capacitor,1500pF,MICA2,,,,,Capacitor
+C2,1,Capacitor,2700pF,MICA2,,,,,Capacitor
+C3,1,Capacitor,2700pF,MICA2,,,,,Capacitor
+L19,1,Inductor,,AXIAL_WOUND_0_35IN,,,,,Inductor
+L20,1,Inductor,,AXIAL_WOUND_0_45IN,,,,,Inductor
+L21,1,Inductor,,AXIAL_WOUND_0_35IN,,,,,Inductor
+LED1,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+LED2,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+LED3,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+LED4,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+LED5,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+LED6,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+LED7,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+LED8,1,LED_SMD0805,,LEDC2012X110N,Kingbright,KP-2012SURC,654-5818,,"Red 0805 clear chip-LED KP-2012SURC Kingbright KP-2012SURC Red LED, 628 nm, 2012 (0805), Rectangle Lens SMD Package"
+RL1,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL2,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL3,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL4,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL5,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL6,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL7,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL8,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL9,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL10,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL11,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL12,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL13,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+RL14,1,OMRON G6S-2F_12V,,G6S-2F-THRU,,,,,"DPDT SMT inside leg relay,1A 12Vdc coil DPDT PCB Mount Non-Latching Relay Surface Mount, 12V dc"
+SK4,1,Power_Terminal,,USER,,,,,4 pole power terminal
+R1,1,Resistor,1K,805,,,,,Resistor
+R2,1,Resistor,1K,805,,,,,Resistor
+R3,1,Resistor,1K,805,,,,,Resistor
+R4,1,Resistor,1K,805,,,,,Resistor
+R5,1,Resistor,1K,805,,,,,Resistor
+R6,1,Resistor,1K,805,,,,,Resistor
+R7,1,Resistor,1K,805,,,,,Resistor
+R8,1,Resistor,1K,805,,,,,Resistor
+SK1,1,SMA_SKT_VERT,,USER,TE Connectivity,5-1814832-1,616-3422,,"SMA r/a PCB socket TE Connectivity Right Angle 50 Through Hole SMA Connector, jack, Solder Termination Coaxial"
+SK2,1,SMA_SKT_VERT,,USER,TE Connectivity,5-1814832-1,616-3422,,"SMA r/a PCB socket TE Connectivity Right Angle 50 Through Hole SMA Connector, jack, Solder Termination Coaxial"
+L7,1,TOROID-2WIRE,1.25uH,T50-2,,,,,Inductor
+L9,1,TOROID-2WIRE,1.25uH,T50-2,,,,,Inductor
+L8,1,TOROID-2WIRE,1.42uH,T50-2,,,,,Inductor
+L4,1,TOROID-2WIRE,2.51uH,T68-2,,,,,Inductor
+L6,1,TOROID-2WIRE,2.51uH,T68-2,,,,,Inductor
+L5,1,TOROID-2WIRE,2.76uH,T68-2,,,,,Inductor
+L1,1,TOROID-2WIRE,4.79uH,T68-2,,,,,Inductor
+L3,1,TOROID-2WIRE,4.79uH,T68-2,,,,,Inductor
+L2,1,TOROID-2WIRE,5.48uH,T68-2,,,,,Inductor
+L16,1,TOROID-2WIRE,323nH,T50-10,,,,,Inductor
+L18,1,TOROID-2WIRE,323nH,T50-10,,,,,Inductor
+L17,1,TOROID-2WIRE,400nH,T50-10,,,,,Inductor
+L13,1,TOROID-2WIRE,484nH,T50-10,,,,,Inductor
+L15,1,TOROID-2WIRE,484nH,T50-10,,,,,Inductor
+L14,1,TOROID-2WIRE,576nH,T50-10,,,,,Inductor
+L10,1,TOROID-2WIRE,676nH,T50-6,,,,,Inductor
+L12,1,TOROID-2WIRE,676nH,T50-6,,,,,Inductor
+L11,1,TOROID-2WIRE,784nH,T50-6,,,,,Inductor
