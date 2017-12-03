@@ -1,0 +1,428 @@
+Plot Report
+-----------
+
+Report Written:     Friday, November 17, 2017
+Project Path:       C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\sdr antenna switch.prj
+Design Path:        C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\sdr antenna switch.pcb
+Design Title:       SDR Antenna Switch / routing
+Created:            21/04/2017 16:43:58
+Last Saved:         17/11/2017 17:50:15
+Editing Time:       2039 min
+Units:              thou (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    No zero suppression.
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colours Black No
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\sdr antenna switch.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Top copper.gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 12.00
+    D12    Round 10.00
+    D17    Round 170.00
+    D18    Square 60.00
+    D19    Round 55.00
+    D71    Rectangle 55.00 X 60.00  Rotation 90
+    D20    Rectangle 25.00 X 80.00  Rotation 90
+    D21    Rectangle 55.00 X 60.00
+    D22    Round 40.00
+    D23    Round 20.00
+    D75    Round 60.00
+    D76    Rectangle 35.43 X 55.12
+    D77    Round 62.99
+    D78    Round 94.49
+    D79    Round 100.39
+    D81    Round 50.00
+    D89    Rectangle 18.11 X 39.37  Rotation 90
+    D91    Round 118.50
+    D92    Round 54.72
+    D93    Rectangle 39.37 X 86.61
+    D94    Rectangle 35.43 X 55.12  Rotation 90
+    D95    Square 63.00
+    D96    Rectangle 18.11 X 39.37
+    D97    Rectangle 31.50 X 70.87  Rotation 90
+    D98    Rectangle 39.37 X 86.61  Rotation 90
+    D99    Rectangle 31.50 X 70.87
+    D100   Rectangle 22.00 X 78.00
+    D101   Rectangle 40.00 X 48.00
+    D102   Rectangle 21.00 X 63.00  Rotation 90
+    D103   Square 90.00
+    D104   Rectangle 19.69 X 42.32
+    D105   Rectangle 80.00 X 95.00
+    D106   Oval 25.00 X 72.00  Rotation 90
+    D107   Rectangle 80.00 X 95.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 12.00
+    D24    Round 176.00
+    D25    Square 66.00
+    D26    Round 61.00
+    D27    Rectangle 61.00 X 66.00  Rotation 90
+    D28    Rectangle 31.00 X 86.00  Rotation 90
+    D29    Rectangle 61.00 X 66.00
+    D72    Round 46.00
+    D83    Round 66.00
+    D84    Rectangle 41.43 X 61.12
+    D85    Round 68.99
+    D86    Round 100.49
+    D87    Round 106.39
+    D90    Rectangle 24.11 X 45.37  Rotation 90
+    D108   Round 124.50
+    D109   Round 60.72
+    D110   Rectangle 45.37 X 92.61
+    D111   Rectangle 41.43 X 61.12  Rotation 90
+    D112   Square 69.00
+    D113   Rectangle 24.11 X 45.37
+    D114   Rectangle 37.50 X 76.87  Rotation 90
+    D115   Rectangle 45.37 X 92.61  Rotation 90
+    D116   Rectangle 37.50 X 76.87
+    D117   Rectangle 28.00 X 84.00
+    D118   Rectangle 46.00 X 54.00
+    D119   Rectangle 27.00 X 69.00  Rotation 90
+    D120   Square 96.00
+    D121   Rectangle 25.69 X 48.32
+    D122   Rectangle 86.00 X 101.00
+    D123   Oval 31.00 X 78.00  Rotation 90
+    D124   Rectangle 86.00 X 101.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D125   Rectangle 33.37 X 80.61
+    D126   Rectangle 29.43 X 49.12  Rotation 90
+    D127   Rectangle 49.00 X 54.00
+    D128   Square 57.00
+    D129   Rectangle 12.11 X 33.37
+    D130   Rectangle 25.50 X 64.87  Rotation 90
+    D131   Rectangle 49.00 X 54.00  Rotation 90
+    D132   Rectangle 29.43 X 49.12
+    D133   Rectangle 12.11 X 33.37  Rotation 90
+    D134   Rectangle 33.37 X 80.61  Rotation 90
+    D135   Rectangle 25.50 X 64.87
+    D136   Rectangle 16.00 X 72.00
+    D137   Rectangle 34.00 X 42.00
+    D138   Rectangle 15.00 X 57.00  Rotation 90
+    D139   Square 84.00
+    D140   Rectangle 19.00 X 74.00  Rotation 90
+    D141   Rectangle 13.69 X 36.32
+    D142   Rectangle 74.00 X 89.00
+    D143   Oval 19.00 X 66.00  Rotation 90
+    D144   Rectangle 74.00 X 89.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Top silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 12.00
+    D11    Round 5.00
+    D12    Round 10.00
+    D13    Round 8.00
+    D14    Round 7.87
+    D15    Round 1.00
+    D142   Round 6.00
+    D143   Round 3.00
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Documentation.gbr
+
+    Layers:
+    ------------------
+    Top Copper
+    Documentation
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 12.00
+    D11    Round 10.00
+    D12    Round 170.00
+    D13    Round 40.00
+    D14    Round 60.00
+    D15    Round 118.50
+    D16    Round 54.72
+    D17    Rectangle 39.37 X 86.61
+    D18    Rectangle 35.43 X 55.12  Rotation 90
+    D19    Round 1.97
+    D70    Rectangle 55.00 X 60.00
+    D71    Round 62.99
+    D20    Square 63.00
+    D21    Round 94.49
+    D22    Round 100.39
+    D23    Rectangle 18.11 X 39.37
+    D24    Rectangle 31.50 X 70.87  Rotation 90
+    D25    Rectangle 55.00 X 60.00  Rotation 90
+    D26    Rectangle 35.43 X 55.12
+    D27    Rectangle 18.11 X 39.37  Rotation 90
+    D28    Rectangle 39.37 X 86.61  Rotation 90
+    D29    Rectangle 31.50 X 70.87
+    D72    Rectangle 22.00 X 78.00
+    D73    Round 55.00
+    D74    Rectangle 40.00 X 48.00
+    D75    Square 60.00
+    D76    Rectangle 21.00 X 63.00  Rotation 90
+    D77    Square 90.00
+    D78    Rectangle 25.00 X 80.00  Rotation 90
+    D79    Rectangle 19.69 X 42.32
+    D80    Rectangle 80.00 X 95.00
+    D81    Oval 25.00 X 72.00  Rotation 90
+    D82    Rectangle 80.00 X 95.00  Rotation 90
+    D83    Round 20.00
+    D84    Round 50.00
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Bottom Copper.gbr
+
+    Layers:
+    ------------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 12.00
+    D11    Round 10.00
+    D12    Round 170.00
+    D13    Round 40.00
+    D14    Round 60.00
+    D15    Round 118.50
+    D16    Round 54.72
+    D70    Rectangle 55.00 X 60.00
+    D71    Round 62.99
+    D21    Round 94.49
+    D22    Round 100.39
+    D25    Rectangle 55.00 X 60.00  Rotation 90
+    D73    Round 55.00
+    D74    Rectangle 40.00 X 48.00
+    D75    Square 60.00
+    D83    Round 20.00
+    D84    Round 50.00
+    D85    Square 31.50
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D86    Rectangle 51.00 X 56.00  Rotation 90
+    D87    Square 27.50
+    D88    Rectangle 51.00 X 56.00
+    D89    Rectangle 36.00 X 44.00
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+    Board Outlines
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 12.00
+    D90    Round 176.00
+    D91    Round 46.00
+    D92    Round 66.00
+    D93    Round 124.50
+    D94    Round 60.72
+    D95    Round 68.99
+    D96    Round 100.49
+    D97    Round 106.39
+    D98    Rectangle 61.00 X 66.00  Rotation 90
+    D99    Square 37.50
+    D100   Round 61.00
+    D101   Rectangle 61.00 X 66.00
+    D102   Square 66.00
+    D103   Rectangle 46.00 X 54.00
+
+NC Drill Output
+===============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02400 in 146   I
+    T002  000.03150 in 8     D
+    T003  000.03500 in 24    H
+    T004  000.03504 in 14    C
+    T005  000.03600 in 52    G
+    T006  000.06299 in 5     E
+    T007  000.06693 in 20    F
+    T008  000.07913 in 14    B
+    T009  000.13000 in 4     A
+    ------------------------------------
+    Total              287
+    ------------------------------------
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.02500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    130   Y      100  Round A
+    79    Y      100  Round B
+    35    Y      100  Round C
+    31    Y      100  Round D
+    63    Y      100  Round E
+    67    Y      100  Round F
+    36    Y      100  Round G
+    35    Y      100  Round H
+    24    Y      100  Round I
+
+    D-Code Shape  (thou)
+    -----------------------
+    D104   Round 100.00
+    D105   Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\Loz\SkyDrive\documents\amateur radio\SDR\antenna switch\Plots\sdr antenna switch - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 12.00
+    D11    Round 10.00
+    D105   Round 5.00
+    D106   Round 1.00
+
+PDF Output
+==========
+
+    Layer
+    ---------------
+    Top Silkscreen
+
+
+PDF Output
+==========
+
+    Layer
+    ------------------
+    Bottom Silkscreen
+
+
+End Of Report.
