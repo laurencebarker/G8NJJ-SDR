@@ -25,7 +25,6 @@
 boolean GTickTriggered;               // true if a 16ms tick has been triggered
 byte GTickCount;                      // 1ms sub-tick counter
 
-
 //
 // 1ms sub-tick handler.
 // updates the encoder, ands counts down to a "main" 16ms tick
@@ -39,13 +38,17 @@ void timerIsr()
   else
     GTickCount--;
   encoder->service();
+//debug
+  digitalWrite(7, HIGH);
+  digitalWrite(7, LOW);
+
 }
 
 
 
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(115200);
 
   initDisplay();
 
@@ -60,6 +63,10 @@ void setup() {
   InitSequencer();
   InitRadioSettings();
   CreateLCDSpecialChars();
+//debug
+  pinMode(7, OUTPUT);               // sets the digital pin as output
+  digitalWrite(7, LOW);
+
 }
 
 

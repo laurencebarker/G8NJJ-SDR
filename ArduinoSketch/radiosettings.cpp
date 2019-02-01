@@ -34,7 +34,7 @@ byte GTXOCBits;                                 // open collector o/p bits, when
 byte GTXFilterBits;                             // TX filter select bits
 int GRXFilterBits;                              // RX filter bits (bits 11:0)
 bool GHSFan;                                    // heatsink fan on/off
-bool GNewI2CData;
+
 unsigned int GRX1Freq;      // RX1 frequency, in KHz
 unsigned int GRX2Freq;      // RX1 frequency, in KHz
 unsigned int GTXFreq;       // TX frequency, in KHz
@@ -199,8 +199,7 @@ void InitRadioSettings(void)
 
   Wire.begin(0x40);                             // set i2c address = 0x40
   Wire.onReceive(receiveEvent);
-  GNewI2CData = false;
-  Serial.begin(9600);
+  Serial.begin(115200);
   GLPFMin=0;                                    // current LPF filter not initialised
   GLPFMax=0;
   GBPFMin=0;                                    // current BPF filter not initialised
@@ -252,7 +251,17 @@ void receiveEvent(int ByteCount)
   Byte2 = Wire.read();
   if (ByteCount == 4)
     Byte3=Wire.read();
-    
+#if defined DEBUG_PRINT
+  Serial.print("Cnt= ");
+  Serial.print(ByteCount);
+  Serial.print("; ");
+#endif
+
+//
+// read out any unused data (error recovery)
+//
+  while(Wire.available() != 0)
+    Wire.read();    
   switch(Msg)
   {
     case 0x1:      // RX1 frequency
@@ -305,7 +314,6 @@ void receiveEvent(int ByteCount)
       break;
   }
   GNewI2CSettings = true;
-  UpdateRadioSettings();
 }
 
 

@@ -578,8 +578,7 @@ void SequencerTick(void)
   if ((GCurrentMode != GDisplayedMode) || (GNewI2CSettings))
   {
     GNewI2CSettings = false;                                // clear it now to avoid race
-    redrawDisplay();  
-    InitiateSpiTx();                                        // if settings changed, sent to h/w
+    DisplayUpdated = true;                                  // force redraw Display at end
   }
   else if (!GEditorActive)
     updateDisplay();

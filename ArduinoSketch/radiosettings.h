@@ -76,7 +76,6 @@ extern unsigned int GRX1Freq;                          // RX1 frequency, in KHz
 //
 // defines for I2C variables (these may not be needed long term)
 //
-extern bool GNewI2CData;
 extern byte GI2CByte1;
 extern byte GI2CByte2;
 extern byte GI2CByte3;
